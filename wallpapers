@@ -1,0 +1,40 @@
+{
+  "wallpapers": [
+    {
+      "author": "Kaique Rocha",
+      "url": "https://static.pexels.com/photos/53756/pexels-photo-53756.jpeg",
+      "name": "Night City Street",
+      "thumbnail": "https://images.pexels.com/photos/53756/pexels-photo-53756.jpeg?h=350&auto=compress&cs=tinysrgb"
+    },
+    {
+      "author": "apple",
+      "url": "https://i.imgur.com/D0pZTiz.jpg",
+      "name": "meteor shower",
+      "thumbnail": "https://i.imgur.com/UIRabAv.png"
+    },
+    {
+      "author": "Jakub Novacek",
+      "url": "https://images.pexels.com/photos/924824/pexels-photo-924824.jpeg",
+      "name": "Night sky timelapse",
+      "thumbnail": "https://images.pexels.com/photos/924824/pexels-photo-924824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+     {
+      "author": "Tobias Bjørkli",
+      "url": "https://images.pexels.com/photos/1819650/pexels-photo-1819650.jpeg",
+      "name": "Aurora Borealis",
+      "thumbnail": "https://images.pexels.com/photos/1819650/pexels-photo-1819650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+     {
+      "author": "Tobias Bjørkli",
+      "url": "https://images.pexels.com/photos/1819650/pexels-photo-1819650.jpeg",
+      "name": "Night sky timelapse",
+      "thumbnail": "https://images.pexels.com/photos/1819650/pexels-photo-1819650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "author": "Andrew Haimerl",
+      "url": "https://images.pexels.com/photos/1819650/pexels-photo-1819650.jpeg",
+      "name": "Night sky timelapse",
+      "thumbnail": "https://images.pexels.com/photos/1819650/pexels-photo-1819650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+  ]
+}
